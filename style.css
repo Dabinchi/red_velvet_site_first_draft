@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif, helvetica, "돋움", "굴림";
+  font-size: 14px;
+}
+h1 {
+	font-size: 1em;
+	color: "#cbcbcb";
+}
+h2 {
+  font-family: sans-serif, helvetica, "돋움", "굴림";
+  color: "#cbcbcb";
+  font-size: 12px;
+}
+p {
+  font-family: sans-serif, helvetica, "돋움", "굴림";
+  color: "#cbcbcb";
+  font-size: 11px;
+  margin: 1px 1px 1px 1px;
+  border: 1px;
+  padding: 1px;
+}
+
+img {
+  margin: 2px 2px 2px 2px;
+}
